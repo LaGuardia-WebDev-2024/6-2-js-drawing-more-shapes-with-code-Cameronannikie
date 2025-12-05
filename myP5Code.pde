@@ -11,11 +11,11 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(200, 300, 150, 150);
-  ellipse(200, 200, 100, 100);
-  ellipse(200, 120, 75, 75);
-  
-
+  rect(123, 59, 150, 150); //face
+  rect(136, 75, 30, 30);// left eye
+  rect(229, 75, 30, 30);// right eye again
+  rect(155,150,90,50); // mouth
+  rect(175,209,50,50); //neck 
 }
 
 //🟡Extra FUN Features Ms. Hall Added
